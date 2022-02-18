@@ -1,0 +1,10 @@
+C:\Users\Joshua.Ajibade\source\repos\AssessmentProject\AssessmentProject.Core\bin\Debug\netcoreapp3.1\AssessmentProject.Core.deps.json
+C:\Users\Joshua.Ajibade\source\repos\AssessmentProject\AssessmentProject.Core\bin\Debug\netcoreapp3.1\AssessmentProject.Core.dll
+C:\Users\Joshua.Ajibade\source\repos\AssessmentProject\AssessmentProject.Core\bin\Debug\netcoreapp3.1\AssessmentProject.Core.pdb
+C:\Users\Joshua.Ajibade\source\repos\AssessmentProject\AssessmentProject.Core\obj\Debug\netcoreapp3.1\AssessmentProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joshua.Ajibade\source\repos\AssessmentProject\AssessmentProject.Core\obj\Debug\netcoreapp3.1\AssessmentProject.Core.AssemblyInfoInputs.cache
+C:\Users\Joshua.Ajibade\source\repos\AssessmentProject\AssessmentProject.Core\obj\Debug\netcoreapp3.1\AssessmentProject.Core.AssemblyInfo.cs
+C:\Users\Joshua.Ajibade\source\repos\AssessmentProject\AssessmentProject.Core\obj\Debug\netcoreapp3.1\AssessmentProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\Joshua.Ajibade\source\repos\AssessmentProject\AssessmentProject.Core\obj\Debug\netcoreapp3.1\AssessmentProject.Core.dll
+C:\Users\Joshua.Ajibade\source\repos\AssessmentProject\AssessmentProject.Core\obj\Debug\netcoreapp3.1\AssessmentProject.Core.pdb
+C:\Users\Joshua.Ajibade\source\repos\AssessmentProject\AssessmentProject.Core\obj\Debug\netcoreapp3.1\AssessmentProject.Core.csproj.AssemblyReference.cache

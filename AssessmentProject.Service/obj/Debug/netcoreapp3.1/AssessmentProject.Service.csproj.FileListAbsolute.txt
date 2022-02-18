@@ -1,0 +1,16 @@
+C:\Users\Joshua.Ajibade\source\repos\AssessmentProject\AssessmentProject.Service\bin\Debug\netcoreapp3.1\AssessmentProject.Service.deps.json
+C:\Users\Joshua.Ajibade\source\repos\AssessmentProject\AssessmentProject.Service\bin\Debug\netcoreapp3.1\AssessmentProject.Service.dll
+C:\Users\Joshua.Ajibade\source\repos\AssessmentProject\AssessmentProject.Service\bin\Debug\netcoreapp3.1\AssessmentProject.Service.pdb
+C:\Users\Joshua.Ajibade\source\repos\AssessmentProject\AssessmentProject.Service\obj\Debug\netcoreapp3.1\AssessmentProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joshua.Ajibade\source\repos\AssessmentProject\AssessmentProject.Service\obj\Debug\netcoreapp3.1\AssessmentProject.Service.AssemblyInfoInputs.cache
+C:\Users\Joshua.Ajibade\source\repos\AssessmentProject\AssessmentProject.Service\obj\Debug\netcoreapp3.1\AssessmentProject.Service.AssemblyInfo.cs
+C:\Users\Joshua.Ajibade\source\repos\AssessmentProject\AssessmentProject.Service\obj\Debug\netcoreapp3.1\AssessmentProject.Service.csproj.CoreCompileInputs.cache
+C:\Users\Joshua.Ajibade\source\repos\AssessmentProject\AssessmentProject.Service\obj\Debug\netcoreapp3.1\AssessmentProject.Service.dll
+C:\Users\Joshua.Ajibade\source\repos\AssessmentProject\AssessmentProject.Service\obj\Debug\netcoreapp3.1\AssessmentProject.Service.pdb
+C:\Users\Joshua.Ajibade\source\repos\AssessmentProject\AssessmentProject.Service\bin\Debug\netcoreapp3.1\NLog.config
+C:\Users\Joshua.Ajibade\source\repos\AssessmentProject\AssessmentProject.Service\bin\Debug\netcoreapp3.1\AssessmentProject.Core.dll
+C:\Users\Joshua.Ajibade\source\repos\AssessmentProject\AssessmentProject.Service\bin\Debug\netcoreapp3.1\AssessmentProject.DataAccess.dll
+C:\Users\Joshua.Ajibade\source\repos\AssessmentProject\AssessmentProject.Service\bin\Debug\netcoreapp3.1\AssessmentProject.Core.pdb
+C:\Users\Joshua.Ajibade\source\repos\AssessmentProject\AssessmentProject.Service\bin\Debug\netcoreapp3.1\AssessmentProject.DataAccess.pdb
+C:\Users\Joshua.Ajibade\source\repos\AssessmentProject\AssessmentProject.Service\obj\Debug\netcoreapp3.1\AssessmentProject.Service.csproj.AssemblyReference.cache
+C:\Users\Joshua.Ajibade\source\repos\AssessmentProject\AssessmentProject.Service\obj\Debug\netcoreapp3.1\AssessmentProject.Service.csproj.CopyComplete
